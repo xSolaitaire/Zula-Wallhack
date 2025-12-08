@@ -1,40 +1,43 @@
-# READ HERE BEFORE ASKING ME
+# ⚡ Zula Wallhack – Educational Memory Example
 
-This project is intended **strictly for educational and research purposes only**.
+A minimal and educational wallhack implementation for the Zula game.  
+This project demonstrates **memory reading**, **entity iteration**, and **manual flag manipulation** using a DLL module.
 
-Do not ask me how to inject, how to bypass, or how to compile the project.  
-All of these topics are widely documented — a little research will guide you easily.
+> ⚠️ **Disclaimer**  
+> This project is for **research and educational purposes only**.  
+> Do not use this in online environments. The responsibility belongs solely to the user.
 
 ---
 
-## About ZulaWallhack
+## 🚀 Build Information
 
-A simple wallhack for the Zula game.  
-Demonstrates basic memory reading, game data parsing, and memory manipulating principles.
-
-- **Build Environment:** Visual Studio **2026**
-- **Toolset:** MSVC **v145**
-- **Target:** Educational demonstration only
+- 🏗️ **Environment:** Visual Studio **2026**
+- 🧰 **Toolset:** MSVC **v145**
+- 📦 **Type:** D3D/Memory-based educational demonstration
+- 📄 **Language:** C++
 
 ![Downloads](https://img.shields.io/github/downloads/xSolaitaire/Zula-Wallhack/total.svg)
+![Stars](https://img.shields.io/github/stars/xSolaitaire/Zula-Wallhack?style=flat)
+![License](https://img.shields.io/badge/license-Educational-blue)
 
 ---
 
-## In-Game Preview
+## 🧠 Technical Overview
 
-![In-Game Preview](https://github.com/xSolaitaire/Zula-Wallhack/blob/main/result.png)
+The project performs:
+
+- Pointer-safe memory reading using a generic template  
+- Entity list address scanning through a pattern  
+- Iteration over game entities (`MaxPlayer = 16`)  
+- Writing a fixed render flag (`0x4000`) to enable visibility  
+- Automated background thread for continuous updates  
+- Initialization via `DllMain` + `_beginthreadex`  
+
+Everything strictly follows the logic in the source code.
 
 ---
 
-## Usage
+## 🖼️ In-Game Preview
 
-1. Build the project using **Visual Studio 2026 (v145 toolset)**.  
-2. Run and test the overlay.  
-3. Use this project only for learning memory manipulation concepts.
+![Preview](https://github.com/xSolaitaire/Zula-Wallhack/blob/main/result.png?raw=true)
 
----
-
-
-## Contact
-
-Discord: **solaitaire**

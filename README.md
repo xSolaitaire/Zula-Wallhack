@@ -16,7 +16,7 @@ This project demonstrates **memory reading**, **entity iteration**, and **manual
 - 📦 **Type:** D3D/Memory-based educational demonstration
 - 📄 **Language:** C++
 
-[![Downdsfsdfsdfsloads](https://img.shields.io/github/downloads/xSolaitaire/Zula-Wallhack/total?style=for-the-badge&label=ZulaWallhaack%20Downloads&color=red)]()
+[![Downdsfsdfsdfsloads](https://img.shields.io/github/downloads/xSolaitaire/Zula-Wallhack/total?style=for-the-badge&label=ZulaWallahaack%20Downloads&color=red)]()
 
 ![Stars](https://img.shields.io/github/stars/xSolaitaire/Zula-Wallhack?style=flat)
 ![License](https://img.shields.io/badge/license-Educational-blue)
@@ -41,4 +41,9 @@ Everything strictly follows the logic in the source code.
 ## 🖼️ In-Game Preview
 
 ![Preview](https://github.com/xSolaitaire/Zula-Wallhack/blob/main/result.png?raw=true)
+
+## 📞 Contact
+
+Discord: **solaitaire**
+
 

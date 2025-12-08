@@ -5,7 +5,7 @@ This project demonstrates **memory reading**, **entity iteration**, and **manual
 
 > ⚠️ **Disclaimer**  
 > This project is for **research and educational purposes only**.  
-> Do not use this in online environments. The responsibility belongs solely to the user.
+> Do not use this in online environments. The responsibility belongs solely to the user. 
 
 ---
 

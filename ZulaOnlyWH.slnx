@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ZulaOnlyWH/ZulaOnlyWH.vcxproj" Id="22bb6ef6-e608-4610-a1e3-da0c6e470983" />
+</Solution>

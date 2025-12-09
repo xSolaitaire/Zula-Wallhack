@@ -1,4 +1,4 @@
-# ⚡ Zula Wallhack – Educational Memory Example
+# ⚡ Zula Hack – Educational Memory Example
 
 A minimal and educational wallhack implementation for the Zula game.  
 This project demonstrates **memory reading**, **entity iteration**, and **manual flag manipulation** using a DLL module.
